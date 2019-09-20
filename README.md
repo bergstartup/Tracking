@@ -24,7 +24,7 @@ This algorithm lags in a few cases If a person overlaps another If a person neve
 Moreover, further development can be made in this, such as capturing multiple images of a person for more accurate result maintaining a log, using it
 to a CCTV infrastructure, where the code runs collect logs of persons. 
 
-<br>
+<br><br>
 <b>Dependencies</b><br>
 Use python 3<br>
 Libraries:<br>
