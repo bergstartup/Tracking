@@ -26,6 +26,6 @@ to a CCTV infrastructure, where the code runs collect logs of persons.
 
 <b>Dependencies</b><br>
 Use python 3.x<br>
-<h3>Libraries:<h3><br>
+<h4>Libraries:</h4><br>
 Opencv [pip3 install opencv-python]<br>
 Face recognition [pip3 install face_recognition]
