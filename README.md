@@ -24,8 +24,9 @@ This algorithm lags in a few cases If a person overlaps another If a person neve
 Moreover, further development can be made in this, such as capturing multiple images of a person for more accurate result maintaining a log, using it
 to a CCTV infrastructure, where the code runs collect logs of persons. 
 
+<br>
 <b>Dependencies</b><br>
-Use python 3.x<br>
-<h4>Libraries:</h4><br>
-Opencv [pip3 install opencv-python]<br>
-Face recognition [pip3 install face_recognition]
+Use python 3<br>
+Libraries:<br>
+Opencv (pip install opencv-python)<br>
+Face recognition (pip3 install face_recognition)
