@@ -24,12 +24,13 @@ This algorithm lags in a few cases If a person overlaps another If a person neve
 Moreover, further development can be made in this, such as capturing multiple images of a person for more accurate result maintaining a log, using it
 to a CCTV infrastructure, where the code runs collect logs of persons. 
 
-<br><br>
+<br>
 <b>Dependencies</b><br>
 Use python 3<br>
 Libraries:<br>
 Opencv (pip3 install opencv-python)<br>
 Face recognition (pip3 install face_recognition)
+
 <br>
 <b>Note</b><br>
 You have to download yolov3.weights file from this location https://pjreddie.com/media/files/yolov3.weights and put it in yolo_files folder under the name yolov3.weights .
