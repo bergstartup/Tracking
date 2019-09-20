@@ -30,6 +30,6 @@ Use python 3<br>
 Libraries:<br>
 Opencv (pip3 install opencv-python)<br>
 Face recognition (pip3 install face_recognition)
-
-<b>Note</b>
+<br>
+<b>Note</b><br>
 You have to download yolov3.weights file from this location https://pjreddie.com/media/files/yolov3.weights and put it in yolo_files folder under the name yolov3.weights .
