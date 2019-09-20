@@ -23,3 +23,9 @@ Since there might be a frame, where a person is entering and another person is l
 This algorithm lags in a few cases If a person overlaps another If a person never shows his face since the beginning. Other than that it's perfectly fine.
 Moreover, further development can be made in this, such as capturing multiple images of a person for more accurate result maintaining a log, using it
 to a CCTV infrastructure, where the code runs collect logs of persons. 
+
+<b>Dependencies</b>
+Use python 3.x
+Libraries:
+Opencv [pip3 install opencv-python]
+Face recognition [pip3 install face_recognition]
