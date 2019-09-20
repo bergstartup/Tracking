@@ -25,7 +25,7 @@ Moreover, further development can be made in this, such as capturing multiple im
 to a CCTV infrastructure, where the code runs collect logs of persons. 
 
 <b>Dependencies</b><br>
-Use python 3.x
-Libraries:
-Opencv [pip3 install opencv-python]
+Use python 3.x<br>
+<h3>Libraries:<h3><br>
+Opencv [pip3 install opencv-python]<br>
 Face recognition [pip3 install face_recognition]
